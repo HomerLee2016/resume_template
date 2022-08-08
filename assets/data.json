@@ -1,0 +1,62 @@
+{
+    "top tech stack": ["SQL", "ETL", "Python"],
+    "personal detail": {
+        "full name":        "Homer Lee",
+        "pronouns":         "he/him",
+        "phone":            "(hidden from public)",
+        "email":            "(hidden from public)",
+        "linkedin url":     "https://www.linkedin.com/in/homer-lee-803307115/",
+        "github url":       "https://github.com/HomerLee2016"
+    },
+    "experience": {
+        "2022-01": {
+            "position":     "Testing job 123",
+            "company":      "company 123",
+            "location":     "New York City, USA",
+            "start date":   "2022-01-01",
+            "end date":     "",
+            "tech stack":   {
+                "SQL":          ["T-SQL"],
+                "ETL":          ["SSIS"],
+                "Python":       ["Dash", "Pandas", "Numpy"],
+                "R":            ["Shiny"],
+                "Repository":   ["Azure DevOps", "Github", "TFS"],
+                "JIRA":         []
+            },
+            "highlight":    "",
+            "details":  [
+                "Analyse different stakeholders' requirements",
+                "Leverage teammates' works by code-review and setup Git Repository",
+                "Monitor and Troubleshoot issues, support deployment"
+            ]
+        },
+        "2016-01": {
+            "position":     "Junior Data Analyst",
+            "company":      "K-Pop company 222222",
+            "position effective date":  "2020-12-01",
+            "position history": [
+                {
+                    "position":                 "Super Junior Data Analyst",
+                    "position effective date":  "2016-10-20"
+                }
+            ],
+            "location":     "Tokyo, Japan",
+            "start date":   "2016-10-20",
+            "end date":     "",
+            "tech stack":   {
+                "SQL":          ["PL/SQL"],
+                "ETL":          ["Informaica"],
+                "Python":       ["Flask", "Pandas", "Numpy", "ML"],
+                "R":            ["Stat."],
+                "Repository":   ["Git"],
+                "JIRA":         []
+            },
+            "highlight":    "Mama, (I) just killed a man. Pull a gun against his head.",
+            "details":  [
+                "blah .......blah blah blah .....blah .......blah blah blah .....",
+                "blah blah blah .......blah blah blah .............",
+                "blah blah blah ............."
+            ]
+        }
+    }
+}
